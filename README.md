@@ -1,2 +1,2 @@
 # ModelSim-IntelFPGA
-Repository to implement APU Programming using VerilogHDL
+Repository to implement Acclerated Processing Unit (APU) Programming using VerilogHDL
