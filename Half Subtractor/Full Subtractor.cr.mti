@@ -1,0 +1,22 @@
+{D:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v} {1 {vlog -work work -stats=none {D:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module exp_df
+
+Top level modules:
+	exp_df
+
+} {} {}} {D:/ModelSim-IntelFPGA/Full Adder/structural_modelling.v} {1 {vlog -work work -stats=none {D:/ModelSim-IntelFPGA/Full Adder/structural_modelling.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module exp_str
+
+Top level modules:
+	exp_str
+
+} {} {}} {D:/ModelSim-IntelFPGA/Full Adder/behavioural_modelling.v} {1 {vlog -work work -stats=none {D:/ModelSim-IntelFPGA/Full Adder/behavioural_modelling.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module exp_beh
+
+Top level modules:
+	exp_beh
+
+} {} {}}
