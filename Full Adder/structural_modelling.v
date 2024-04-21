@@ -1,11 +1,9 @@
-//structural modelling for Full Adder
+//structural modelling for Half Subtractor
 
-module exp_str(sum, carry, A, B, Cin);
-input A, B, Cin; output sum, carry;
-xor g1(sum, A, B, Cin);
-wire y1, y2, y3;
-and g2(y1, B, Cin);
-and g3(y2, A, B);
-and g4(y3, A, Cin);
-and g5(carry, y1, y2, y3);
+module exp_str(Diff, Borr, A, B);
+input A, B; output Diff, Borr;
+xor g1(Diff, A, B);
+wire y1;
+not g2(y1, A);
+and g3(Borr, y1, B);
 endmodule
