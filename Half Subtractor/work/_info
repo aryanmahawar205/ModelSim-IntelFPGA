@@ -8,27 +8,48 @@ z2
 !i10f 100
 cModel Technology
 dD:/ModelSim-IntelFPGA/Full Adder
-vexp_df
-Z0 !s110 1713704410
+vexp_beh
+Z0 !s110 1713704714
 !i10b 1
-!s100 7iN[>mGCLPm9kTQ0C`o?P3
-I5F^hm57>an:VVb?1CEbm82
+!s100 4PcSK5;K=h>0ooj:MQTb11
+IE?jOiCoVJ8^;b[fW`fkI93
 Z1 VDg1SIo80bB@j0V0VzS_@n1
 Z2 dD:/ModelSim-IntelFPGA/Half Subtractor
-w1713704199
-8D:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v
-FD:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v
+w1713704710
+8D:/ModelSim-IntelFPGA/Full Adder/behavioural_modelling.v
+FD:/ModelSim-IntelFPGA/Full Adder/behavioural_modelling.v
 L0 3
 Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1713704410.000000
-!s107 D:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v|
-!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v|
+Z4 !s108 1713704714.000000
+!s107 D:/ModelSim-IntelFPGA/Full Adder/behavioural_modelling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Full Adder/behavioural_modelling.v|
 !i113 1
 Z5 o-work work
 Z6 tCvgOpt 0
+vexp_df
+R0
+!i10b 1
+!s100 7iN[>mGCLPm9kTQ0C`o?P3
+I5F^hm57>an:VVb?1CEbm82
+R1
+R2
+w1713704199
+8D:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v
+FD:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v|
+!i113 1
+R5
+R6
 vexp_str
 R0
 !i10b 1
