@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vexp_df
+!s110 1713702421
+!i10b 1
+!s100 I:lN35ocnzdN8i;UKa6S91
+In2^HB?::IoY=<hkGOT9?30
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/ModelSim-IntelFPGA/Full Adder
+w1713702418
+8D:/ModelSim-IntelFPGA/Full Adder/dataflow_modelling.v
+FD:/ModelSim-IntelFPGA/Full Adder/dataflow_modelling.v
+L0 3
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1713702420.000000
+!s107 D:/ModelSim-IntelFPGA/Full Adder/dataflow_modelling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Full Adder/dataflow_modelling.v|
+!i113 1
+o-work work
+tCvgOpt 0
