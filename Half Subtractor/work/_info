@@ -7,89 +7,25 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-dC:/intelFPGA/18.1
-vexp_beh
-Z0 !s110 1714218843
-!i10b 1
-!s100 R>:zFkTnogaW[[^mm5`R53
-Ih4YQ@loPIHWFmN63n1oao1
-Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dD:/ModelSim-IntelFPGA/Half Subtractor
-w1714218420
-8D:/ModelSim-IntelFPGA/Half Subtractor/behavioural_modelling.v
-FD:/ModelSim-IntelFPGA/Half Subtractor/behavioural_modelling.v
-L0 3
-Z3 OV;L;10.5b;63
-r1
-!s85 0
-31
-Z4 !s108 1714218843.000000
-!s107 D:/ModelSim-IntelFPGA/Half Subtractor/behavioural_modelling.v|
-!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Half Subtractor/behavioural_modelling.v|
-!i113 1
-Z5 o-work work
-Z6 tCvgOpt 0
+dD:/ModelSim-IntelFPGA/Full Subtractor
 vexp_df
-R0
+!s110 1714219696
 !i10b 1
 !s100 Rf>0FML`bTomJjS1b4JlW2
 IA8877l[lV7NXZeAfWYU@K2
-R1
-R2
-w1714217999
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/ModelSim-IntelFPGA/Half Subtractor
+w1714219695
 8D:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v
 FD:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v
 L0 3
-R3
+OV;L;10.5b;63
 r1
 !s85 0
 31
-R4
+!s108 1714219696.000000
 !s107 D:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v|
 !i113 1
-R5
-R6
-vexp_str
-R0
-!i10b 1
-!s100 L<El3LZRQ>ZNTn8REAh_93
-IecbGC6`?o]O@=JV@5Rk`^3
-R1
-R2
-w1714218155
-8D:/ModelSim-IntelFPGA/Half Subtractor/structural_modelling.v
-FD:/ModelSim-IntelFPGA/Half Subtractor/structural_modelling.v
-L0 3
-R3
-r1
-!s85 0
-31
-R4
-!s107 D:/ModelSim-IntelFPGA/Half Subtractor/structural_modelling.v|
-!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Half Subtractor/structural_modelling.v|
-!i113 1
-R5
-R6
-vTB_halfSubtractor
-R0
-!i10b 1
-!s100 `DF2[FeC<UMOQe_9D<f8z0
-IIGHjM383XfO`^2UXK@<K<1
-R1
-R2
-w1714218816
-8D:/ModelSim-IntelFPGA/Half Subtractor/test_bench.v
-FD:/ModelSim-IntelFPGA/Half Subtractor/test_bench.v
-L0 3
-R3
-r1
-!s85 0
-31
-R4
-!s107 D:/ModelSim-IntelFPGA/Half Subtractor/test_bench.v|
-!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Half Subtractor/test_bench.v|
-!i113 1
-R5
-R6
-n@t@b_half@subtractor
+o-work work
+tCvgOpt 0
