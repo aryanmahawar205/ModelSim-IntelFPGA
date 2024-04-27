@@ -5,7 +5,7 @@ input A, B, Cin; output sum, carry;
 reg sum, carry;
 always @ (A or B or Cin)
 begin
-case ({A, B, Cin})
+case ({A, B, C})
 3'b000 : begin sum = 0; carry = 0; end
 3'b001 : begin sum = 1; carry = 0; end
 3'b010 : begin sum = 1; carry = 0; end
