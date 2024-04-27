@@ -4,7 +4,7 @@ module TB_halfSubtractor();
 wire diff, borr; reg A, B;
 
 //triggering Test Bench for Structural Modelling
-exp_str trigger_StrcuturalModelling(diff, borr, A, B);
+exp_str trigger_StructuralModelling(diff, borr, A, B);
 
 initial
 begin
