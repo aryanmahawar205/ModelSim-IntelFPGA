@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/intelFPGA/18.1
 vexp_beh
-Z0 !s110 1713545097
+Z0 !s110 1714219325
 !i10b 1
 !s100 OEQIlf0;2G]iG7X3Xn?7n3
 I><Dj_ZzaBo`>LmP78FooG0
@@ -23,7 +23,7 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1713545097.000000
+Z4 !s108 1714219325.000000
 !s107 D:/ModelSim-IntelFPGA/Verification of Boolean Expression/behavioral_modelling.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Verification of Boolean Expression/behavioral_modelling.v|
 !i113 1
@@ -37,16 +37,16 @@ I;hKa9_1oZl1>`F]<gh8O?3
 R1
 R2
 w1713542757
-Z7 8D:/ModelSim-IntelFPGA/Verification of Boolean Expression/dataflow_modelling.v
-Z8 FD:/ModelSim-IntelFPGA/Verification of Boolean Expression/dataflow_modelling.v
+8D:/ModelSim-IntelFPGA/Verification of Boolean Expression/dataflow_modelling.v
+FD:/ModelSim-IntelFPGA/Verification of Boolean Expression/dataflow_modelling.v
 L0 3
 R3
 r1
 !s85 0
 31
 R4
-Z9 !s107 D:/ModelSim-IntelFPGA/Verification of Boolean Expression/dataflow_modelling.v|
-Z10 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Verification of Boolean Expression/dataflow_modelling.v|
+!s107 D:/ModelSim-IntelFPGA/Verification of Boolean Expression/dataflow_modelling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Verification of Boolean Expression/dataflow_modelling.v|
 !i113 1
 R5
 R6
@@ -71,3 +71,25 @@ R4
 !i113 1
 R5
 R6
+vTB_Expression
+R0
+!i10b 1
+!s100 S5@NO0[M^RTOXJVNIn5mn3
+I1_VZ5k@5Ud467O:AI@m0o0
+R1
+R2
+w1714219323
+8D:/ModelSim-IntelFPGA/Verification of Boolean Expression/test_bench.v
+FD:/ModelSim-IntelFPGA/Verification of Boolean Expression/test_bench.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/ModelSim-IntelFPGA/Verification of Boolean Expression/test_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Verification of Boolean Expression/test_bench.v|
+!i113 1
+R5
+R6
+n@t@b_@expression
