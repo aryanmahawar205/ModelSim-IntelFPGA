@@ -9,23 +9,23 @@ z2
 cModel Technology
 dD:/ModelSim-IntelFPGA/Full Subtractor
 vexp_df
-!s110 1714219863
+!s110 1714220042
 !i10b 1
-!s100 F8^1Fhjcfl0fHI5:dFP_>2
-I8QOmE7EUbFcUYE83LbP6T3
+!s100 k]`3GhjQfCoHO@AE8UMH=2
+IzA[39aXS>5=oXPeYEgGc@3
 VDg1SIo80bB@j0V0VzS_@n1
 dD:/ModelSim-IntelFPGA/Half Subtractor
-w1714219857
-8D:/ModelSim-IntelFPGA/Half Subtractor/structural_modelling.v
-FD:/ModelSim-IntelFPGA/Half Subtractor/structural_modelling.v
+w1714220038
+8D:/ModelSim-IntelFPGA/Half Subtractor/behavioural_modelling.v
+FD:/ModelSim-IntelFPGA/Half Subtractor/behavioural_modelling.v
 L0 3
 OV;L;10.5b;63
 r1
 !s85 0
 31
-!s108 1714219863.000000
-!s107 D:/ModelSim-IntelFPGA/Half Subtractor/structural_modelling.v|
-!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Half Subtractor/structural_modelling.v|
+!s108 1714220042.000000
+!s107 D:/ModelSim-IntelFPGA/Half Subtractor/behavioural_modelling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Half Subtractor/behavioural_modelling.v|
 !i113 1
 o-work work
 tCvgOpt 0
