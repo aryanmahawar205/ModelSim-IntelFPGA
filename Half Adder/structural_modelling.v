@@ -1,4 +1,4 @@
-//code to implement Half Adder using Dataflow Modelling
+//code to implement Half Adder using Structural Modelling
 
 module exp_str(sum, carry, A, B);
 input A, B; output sum, carry;
