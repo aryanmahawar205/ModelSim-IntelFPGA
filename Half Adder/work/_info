@@ -9,7 +9,7 @@ z2
 cModel Technology
 dD:/ModelSim-IntelFPGA/Verification of Boolean Expression
 vexp_beh
-Z0 !s110 1713546735
+Z0 !s110 1714215694
 !i10b 1
 !s100 Qc`K>_3?_kTdW;RF3GGZI2
 IS>d343gg]?U6AcjbAnmAZ1
@@ -23,14 +23,14 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1713546735.000000
+Z4 !s108 1714215694.000000
 !s107 D:/ModelSim-IntelFPGA/Half Adder/behavioral_modelling.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Half Adder/behavioral_modelling.v|
 !i113 1
 Z5 o-work work
 Z6 tCvgOpt 0
 vexp_df
-R0
+Z7 !s110 1714215693
 !i10b 1
 !s100 2^zF[cclJ64KL]eXKVI=l1
 IGH[[[HZNKVXF@V@`b9[?h2
@@ -44,14 +44,14 @@ R3
 r1
 !s85 0
 31
-R4
+Z8 !s108 1714215693.000000
 !s107 D:/ModelSim-IntelFPGA/Half Adder/dataflow_modelling.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Half Adder/dataflow_modelling.v|
 !i113 1
 R5
 R6
 vexp_str
-R0
+R7
 !i10b 1
 !s100 `52:DKN;_WSLS]fS`zG?90
 ICVKbRziJ11<mEPU[VXG1n1
@@ -65,9 +65,31 @@ R3
 r1
 !s85 0
 31
-R4
+R8
 !s107 D:/ModelSim-IntelFPGA/Half Adder/structural_modelling.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Half Adder/structural_modelling.v|
 !i113 1
 R5
 R6
+vTB_halfAdder
+R0
+!i10b 1
+!s100 bh5SED@XiGI[T9cmzCNM_0
+IMKI?VY>>_Pi44m<kzVicS3
+R1
+R2
+w1714215689
+8D:/ModelSim-IntelFPGA/Half Adder/test_bench.v
+FD:/ModelSim-IntelFPGA/Half Adder/test_bench.v
+L0 4
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/ModelSim-IntelFPGA/Half Adder/test_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Half Adder/test_bench.v|
+!i113 1
+R5
+R6
+n@t@b_half@adder
