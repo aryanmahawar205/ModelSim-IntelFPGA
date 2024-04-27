@@ -9,23 +9,44 @@ z2
 cModel Technology
 dD:/ModelSim-IntelFPGA/Half Subtractor
 vexp_df
-!s110 1714220499
+Z0 !s110 1714220564
 !i10b 1
 !s100 mNO`DThnUf>TgN32^HEd42
 I>PMP<[h^zG]1PPL:i3;Dk2
-VDg1SIo80bB@j0V0VzS_@n1
-dD:/ModelSim-IntelFPGA/Full Subtractor
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/ModelSim-IntelFPGA/Full Subtractor
 w1714220497
 8D:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v
 FD:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v
 L0 3
-OV;L;10.5b;63
+Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-!s108 1714220499.000000
+Z4 !s108 1714220564.000000
 !s107 D:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Half Subtractor/dataflow_modelling.v|
 !i113 1
-o-work work
-tCvgOpt 0
+Z5 o-work work
+Z6 tCvgOpt 0
+vexp_str
+R0
+!i10b 1
+!s100 d]6L_32b7BR8GDNEYhNNA0
+IPBg;J`67TL1mW3Ubb4<k[3
+R1
+R2
+w1714220561
+8D:/ModelSim-IntelFPGA/Half Subtractor/structural_modelling.v
+FD:/ModelSim-IntelFPGA/Half Subtractor/structural_modelling.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/ModelSim-IntelFPGA/Half Subtractor/structural_modelling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Half Subtractor/structural_modelling.v|
+!i113 1
+R5
+R6
