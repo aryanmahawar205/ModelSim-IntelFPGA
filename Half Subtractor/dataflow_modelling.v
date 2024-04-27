@@ -1,7 +1,7 @@
-//Dataflow Modelling code for Half Subtractor
+//dataflow modelling for Full Subtractor
 
-module exp_df(diff, borr, A, B);
-input A, B; output diff, borr;
-assign diff = A^B;
-assign borr = ((~A)&B);
+module exp_df(Diff, Borr, A, B, C);
+input A, B, C; output Diff, Borr;
+assign Diff = A^B^C;
+assign Borr = (((~A)&(B|C)) | (B&C));
 endmodule
