@@ -10,10 +10,10 @@ initial
 begin
 A = 1'b0; B = 1'b0;
 #100;
-A = 1'b0; B = 1'b0;
+A = 1'b0; B = 1'b1;
 #100;
-A = 1'b0; B = 1'b0;
+A = 1'b1; B = 1'b0;
 #100;
-A = 1'b0; B = 1'b0;
+A = 1'b1; B = 1'b1;
 end
 endmodule
