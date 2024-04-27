@@ -1,19 +1,15 @@
-//behavioural modelling for Full Subtractor
+//behavoiral modelling for Half Subtractor
 
-module exp_beh(Diff, Borr, A, B, C);
-input A, B, C; output Diff, Borr;
+module exp_beh(Diff, Borr, A, B);
+input A, B; output Diff, Borr;
 reg Diff, Borr;
-always @ (A or B or C)
+always @ (A or B)
 begin
-case ({A, B, C})
-3'b000 : begin Diff = 0; Borr = 0; end
-3'b001 : begin Diff = 1; Borr = 1; end
-3'b010 : begin Diff = 1; Borr = 1; end 
-3'b011 : begin Diff = 0; Borr = 1; end
-3'b100 : begin Diff = 1; Borr = 0; end
-3'b101 : begin Diff = 0; Borr = 0; end
-3'b110 : begin Diff = 0; Borr = 0; end
-3'b111 : begin Diff = 1; Borr = 1; end
+case ({A, B})
+2'b00 : begin Diff = 0; Borr = 0; end
+2'b01 : begin Diff = 1; Borr = 1; end 
+2'b10 : begin Diff = 1; Borr = 0; end
+2'b11 : begin Diff = 0; Borr = 0; end
 endcase
 end
 endmodule
