@@ -9,23 +9,44 @@ z2
 cModel Technology
 dC:/intelFPGA/18.1
 vexp_df
-!s110 1714221220
+Z0 !s110 1714221312
 !i10b 1
 !s100 YSi?=DQ?GIo]B3J=2hE3K0
 ITOSO<HEBG53V7L@hU@Xa_1
-VDg1SIo80bB@j0V0VzS_@n1
-dD:/ModelSim-IntelFPGA/Full Subtractor
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/ModelSim-IntelFPGA/Full Subtractor
 w1714221217
 8D:/ModelSim-IntelFPGA/Full Subtractor/dataflow_modelling.v
 FD:/ModelSim-IntelFPGA/Full Subtractor/dataflow_modelling.v
 L0 3
-OV;L;10.5b;63
+Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-!s108 1714221220.000000
+Z4 !s108 1714221312.000000
 !s107 D:/ModelSim-IntelFPGA/Full Subtractor/dataflow_modelling.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Full Subtractor/dataflow_modelling.v|
 !i113 1
-o-work work
-tCvgOpt 0
+Z5 o-work work
+Z6 tCvgOpt 0
+vexp_str
+R0
+!i10b 1
+!s100 5C4ELTJKC>iz;@YO7Z0[G3
+I_CBnH6L780=7G6nS5;z=R0
+R1
+R2
+w1714221310
+8D:/ModelSim-IntelFPGA/Full Subtractor/structural_modelling.v
+FD:/ModelSim-IntelFPGA/Full Subtractor/structural_modelling.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/ModelSim-IntelFPGA/Full Subtractor/structural_modelling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Full Subtractor/structural_modelling.v|
+!i113 1
+R5
+R6
