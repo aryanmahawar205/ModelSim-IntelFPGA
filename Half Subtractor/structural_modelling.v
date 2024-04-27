@@ -1,12 +1,8 @@
-//structural modelling for Full Subtractor
+//structural modelling for Half Subtractor
 
-module exp_str(Diff, Borr, A, B, C);
-input A, B, C; output Diff, Borr;
-xor g1(Diff, A, B, C);
-wire A_bar, y1, y2, y3;
-not g2(A_bar, A);
-or g3(y1, B, C);
-and g4(y2, B, C);
-and g5(y3, A_bar, y1);
-or g6(Borr, y3, y2);
+module exp_str(diff, borr, A, B);
+input A, B; output diff, borr;
+xor g1(diff, A, B);
+wire y1; not g2(y1, A);
+and g3(borr, y1, B);
 endmodule
