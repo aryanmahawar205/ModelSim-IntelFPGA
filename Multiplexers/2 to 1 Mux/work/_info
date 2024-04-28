@@ -8,27 +8,48 @@ z2
 !i10f 100
 cModel Technology
 dC:/intelFPGA/18.1
-vmux_2_to_1_df
-Z0 !s110 1714294295
+vmux_2_to_1_beh
+Z0 !s110 1714294780
 !i10b 1
-!s100 A16EVUM<O^TjlU=]DzVh33
-I79P2lIjGDjJ`3h8SM<j>40
+!s100 A4RiJ:iZ[QV=;K2=KCUDm3
+I>d=[_hJh632?geYA4bX]U1
 Z1 VDg1SIo80bB@j0V0VzS_@n1
 Z2 dD:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux
-w1714292354
-8D:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/dataflow_modelling.v
-FD:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/dataflow_modelling.v
+w1714294721
+8D:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/behavioural_modelling.vhd
+FD:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/behavioural_modelling.vhd
 L0 3
 Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1714294295.000000
-!s107 D:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/dataflow_modelling.v|
-!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/dataflow_modelling.v|
+Z4 !s108 1714294780.000000
+!s107 D:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/behavioural_modelling.vhd|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/behavioural_modelling.vhd|
 !i113 1
 Z5 o-work work
 Z6 tCvgOpt 0
+vmux_2_to_1_df
+R0
+!i10b 1
+!s100 A16EVUM<O^TjlU=]DzVh33
+I79P2lIjGDjJ`3h8SM<j>40
+R1
+R2
+w1714292354
+8D:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/dataflow_modelling.v
+FD:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/dataflow_modelling.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/dataflow_modelling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/dataflow_modelling.v|
+!i113 1
+R5
+R6
 vmux_2_to_1_str
 R0
 !i10b 1
@@ -53,11 +74,11 @@ R6
 vTB_2_to_1_mux
 R0
 !i10b 1
-!s100 <EK5bKR2>3eQ;?Ubk;2k63
-Id`H6XaF;@?f6DCPl0GGWa2
+!s100 gk:6Ub@h7=oWV^hdb2ec12
+Io[a9QgCSa4H[W2L98PZIJ0
 R1
 R2
-w1714294285
+w1714294769
 8D:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/test_bench.v
 FD:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/test_bench.v
 L0 3
