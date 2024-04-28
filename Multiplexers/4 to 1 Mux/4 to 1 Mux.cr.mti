@@ -1,1 +1,29 @@
+{D:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux/test_bench.v} {1 {vlog -work work -stats=none {D:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux/test_bench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module TB_4_to_1_mux
 
+Top level modules:
+	TB_4_to_1_mux
+
+} {} {}} {D:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux/structural_modelling.v} {1 {vlog -work work -stats=none {D:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux/structural_modelling.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux_4_to_1_str
+
+Top level modules:
+	mux_4_to_1_str
+
+} {} {}} {D:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux/behavioural_modelling.v} {1 {vlog -work work -stats=none {D:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux/behavioural_modelling.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux_4_to_1_beh
+
+Top level modules:
+	mux_4_to_1_beh
+
+} {} {}} {D:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux/dataflow_modelling.v} {1 {vlog -work work -stats=none {D:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux/dataflow_modelling.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux_4_to_1_df
+
+Top level modules:
+	mux_4_to_1_df
+
+} {} {}}
