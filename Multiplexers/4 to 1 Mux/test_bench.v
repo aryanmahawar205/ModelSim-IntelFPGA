@@ -1,7 +1,7 @@
 //Test Bench for 4:1 Mux
 
 module TB_4_to_1_mux();
-wire Y, reg I0, I1, I2, I3; reg S1, S0;
+wire Y; reg I0, I1, I2, I3; reg S1, S0;
 
 //triggering Test Bench for Dataflow Modelling
 mux_4_to_1_df trigger_dataflowModelling(Y, I0, I1, I2, I3, S1, S0);
