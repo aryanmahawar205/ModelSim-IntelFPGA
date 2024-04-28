@@ -8,8 +8,8 @@ mux_2_to_1_df trigger_dataflowModelling(Y, I0, I1, S);
 
 initial
 begin
-S = 1'b0;
+I0 = 1'b0; I1 = 1'b0; S = 1'b0;
 #100;
-S = 1'b1;
+I0 = 1'b1; I1 = 1'b1; S = 1'b1;
 end
 endmodule
