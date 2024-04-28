@@ -1,0 +1,6 @@
+//Dataflow Modelling for 2:1 Mux
+
+module 2_to_1_df(Y, I0, I1, S);
+output Y; input I0, I1; input S;
+assign Y = (((~S)&I0) | (S&I1));
+endmodule
