@@ -9,23 +9,44 @@ z2
 cModel Technology
 dC:/intelFPGA/18.1
 vmux_4_to_1_df
-!s110 1714296438
+Z0 !s110 1714296800
 !i10b 1
 !s100 NR7a5:KdCR;d^B8ozeeU?0
 IJ`l`z2hz@F9^;hBa5;[X01
-VDg1SIo80bB@j0V0VzS_@n1
-dD:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux
 w1714296434
 8D:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux/dataflow_modelling.v
 FD:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux/dataflow_modelling.v
 L0 3
-OV;L;10.5b;63
+Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-!s108 1714296438.000000
+Z4 !s108 1714296800.000000
 !s107 D:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux/dataflow_modelling.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux/dataflow_modelling.v|
 !i113 1
-o-work work
-tCvgOpt 0
+Z5 o-work work
+Z6 tCvgOpt 0
+vmux_4_to_1_str
+R0
+!i10b 1
+!s100 j`[CjR<RkRHUfJRS3X1PF2
+IE4i5`Q>2ZK1NVCOL_Y1CF3
+R1
+R2
+w1714296799
+8D:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux/structural_modelling.v
+FD:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux/structural_modelling.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux/structural_modelling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Multiplexers/4 to 1 Mux/structural_modelling.v|
+!i113 1
+R5
+R6
