@@ -9,7 +9,7 @@ z2
 cModel Technology
 dC:/intelFPGA/18.1
 vmux_2_to_1_df
-Z0 !s110 1714293966
+Z0 !s110 1714294218
 !i10b 1
 !s100 A16EVUM<O^TjlU=]DzVh33
 I79P2lIjGDjJ`3h8SM<j>40
@@ -23,12 +23,33 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1714293966.000000
+Z4 !s108 1714294218.000000
 !s107 D:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/dataflow_modelling.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/dataflow_modelling.v|
 !i113 1
 Z5 o-work work
 Z6 tCvgOpt 0
+vmux_2_to_1_str
+R0
+!i10b 1
+!s100 3<_f^Y3<IS_S>3WL02Ifa2
+IZLUJ7m60Fi0EKW<43b@N72
+R1
+R2
+w1714294213
+8D:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/structural_modelling.v
+FD:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/structural_modelling.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/structural_modelling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Multiplexers/2 to 1 Mux/structural_modelling.v|
+!i113 1
+R5
+R6
 vTB_2_to_1_mux
 R0
 !i10b 1
