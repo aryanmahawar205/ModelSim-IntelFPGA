@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vmux_8_to_1
+!s110 1714372210
+!i10b 1
+!s100 nzBYI>hB>i^6<?iM?7ZFV2
+IOhVTFVZ5KN>=3SQk[N@9P3
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/ModelSim-IntelFPGA/Multiplexers/8 to 1 Mux
+w1714372206
+8D:/ModelSim-IntelFPGA/Multiplexers/8 to 1 Mux/dataflow_modelling.v
+FD:/ModelSim-IntelFPGA/Multiplexers/8 to 1 Mux/dataflow_modelling.v
+L0 3
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1714372210.000000
+!s107 D:/ModelSim-IntelFPGA/Multiplexers/8 to 1 Mux/dataflow_modelling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Multiplexers/8 to 1 Mux/dataflow_modelling.v|
+!i113 1
+o-work work
+tCvgOpt 0
