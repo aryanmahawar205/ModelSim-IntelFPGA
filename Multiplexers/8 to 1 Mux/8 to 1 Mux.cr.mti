@@ -5,6 +5,13 @@ Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  
 Top level modules:
 	mux_8_to_1_str
 
+} {} {}} {D:/ModelSim-IntelFPGA/Multiplexers/8 to 1 Mux/test_bench.v} {1 {vlog -work work -stats=none {D:/ModelSim-IntelFPGA/Multiplexers/8 to 1 Mux/test_bench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module TB_8_to_1
+
+Top level modules:
+	TB_8_to_1
+
 } {} {}} {D:/ModelSim-IntelFPGA/Multiplexers/8 to 1 Mux/dataflow_modelling.v} {1 {vlog -work work -stats=none {D:/ModelSim-IntelFPGA/Multiplexers/8 to 1 Mux/dataflow_modelling.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module mux_8_to_1_df
@@ -14,5 +21,9 @@ Top level modules:
 
 } {} {}} {D:/ModelSim-IntelFPGA/Multiplexers/8 to 1 Mux/behavioural_modelling.v} {1 {vlog -work work -stats=none {D:/ModelSim-IntelFPGA/Multiplexers/8 to 1 Mux/behavioural_modelling.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux_8_to_1_beh
+
+Top level modules:
+	mux_8_to_1_beh
 
 } {} {}}
