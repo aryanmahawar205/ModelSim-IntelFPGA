@@ -12,4 +12,5 @@ and g8(y8, S2, y2, y3, I[4]);
 and g9(y9, S2, y2, S0, I[5]);
 and g10(y10, S2, S1, y3, I[6]);
 and g11(y11, S2, S1, S0, I[7]);
+or g12(Y, y4, y5, y6, y7, y8, y9, y10, y11);
 endmodule
