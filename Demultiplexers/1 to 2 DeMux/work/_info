@@ -31,7 +31,7 @@ Z7 o-work work
 Z8 tCvgOpt 0
 nde@mux_1_to_2
 vdeMux_1_to_2_df
-Z9 !s110 1714556944
+Z9 !s110 1714557300
 !i10b 1
 !s100 FoIInZS]UZTk^mB7G5k7S1
 IN81Mb@k:gk2Zb7UJOkG@h3
@@ -45,21 +45,43 @@ R4
 r1
 !s85 0
 31
-Z10 !s108 1714556944.000000
+Z10 !s108 1714557300.000000
 R5
 R6
 !i113 1
 R7
 R8
 nde@mux_1_to_2_df
+vdeMux_1_to_2_str
+R9
+!i10b 1
+!s100 UeM<L21;f<O`ddeAz>kn61
+I^^@J__b8NS>lIoQ^F3=fn3
+R0
+R1
+w1714557297
+8D:/ModelSim-IntelFPGA/Demultiplexers/1 to 2 DeMux/structural_modelling.v
+FD:/ModelSim-IntelFPGA/Demultiplexers/1 to 2 DeMux/structural_modelling.v
+L0 3
+R4
+r1
+!s85 0
+31
+R10
+!s107 D:/ModelSim-IntelFPGA/Demultiplexers/1 to 2 DeMux/structural_modelling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Demultiplexers/1 to 2 DeMux/structural_modelling.v|
+!i113 1
+R7
+R8
+nde@mux_1_to_2_str
 vTB_1_to_2_DeMux
 R9
 !i10b 1
-!s100 ]:P0U2Ak39?0>N8CdN4<C3
-I^;7WXN]CG25RljI6QNLm:0
+!s100 1WhAOznEcYfej1VTf3^XE3
+Il3bZIh?N;nYY4OX[Ni^_U0
 R0
 R1
-w1714556932
+w1714557290
 8D:/ModelSim-IntelFPGA/Demultiplexers/1 to 2 DeMux/test_bench.v
 FD:/ModelSim-IntelFPGA/Demultiplexers/1 to 2 DeMux/test_bench.v
 L0 3
