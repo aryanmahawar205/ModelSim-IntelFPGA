@@ -1,7 +1,7 @@
 //Test Bench Modelling for 1:4 DeMux
 
 module TB_1_to_4_deMux();
-wire Y; reg I; reg S1, S0;
+wire [3:0]Y; reg I; reg S1, S0;
 
 //triggering Test Bench for Dataflow Modelling
 deMux_1_to_4_df triggering_dataflowModelling(I, S1, S0, Y);

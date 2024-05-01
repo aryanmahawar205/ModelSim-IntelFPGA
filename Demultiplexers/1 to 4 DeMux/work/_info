@@ -9,7 +9,7 @@ z2
 cModel Technology
 dD:/ModelSim-IntelFPGA/Demultiplexers/1 to 2 DeMux
 vdeMux_1_to_4_df
-Z0 !s110 1714558955
+Z0 !s110 1714559106
 !i10b 1
 !s100 @i`YNlmfR>A_Y7?oE=lFY2
 ID^zJ@V=jCV9AOd@aDD:Ml2
@@ -23,7 +23,7 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1714558955.000000
+Z4 !s108 1714559106.000000
 !s107 D:/ModelSim-IntelFPGA/Demultiplexers/1 to 4 DeMux/dataflow_modelling.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Demultiplexers/1 to 4 DeMux/dataflow_modelling.v|
 !i113 1
@@ -33,11 +33,11 @@ nde@mux_1_to_4_df
 vTB_1_to_4_deMux
 R0
 !i10b 1
-!s100 :=jKjnRCmi[z^h36zhoPm0
-IEBh`I:AbT>82iEa1mXFi20
+!s100 7H>L[RYOJ]^nMK:k2=PLQ3
+I]lnMQz3kz6NS6EVFB;Ue10
 R1
 R2
-w1714558948
+w1714559024
 8D:/ModelSim-IntelFPGA/Demultiplexers/1 to 4 DeMux/test_bench.v
 FD:/ModelSim-IntelFPGA/Demultiplexers/1 to 4 DeMux/test_bench.v
 L0 3
