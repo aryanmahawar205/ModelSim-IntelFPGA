@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ModelSim-IntelFPGA/Demultiplexers/1 to 4 DeMux
+vdeMux_1_to_8_df
+!s110 1714561598
+!i10b 1
+!s100 1O:85;g7TlWlIC2iY64lM3
+IE86OzNCbNhQ4o?nb7CjTE0
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux
+w1714561596
+8D:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux/dataflow_modelling.v
+FD:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux/dataflow_modelling.v
+L0 3
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1714561598.000000
+!s107 D:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux/dataflow_modelling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux/dataflow_modelling.v|
+!i113 1
+o-work work
+tCvgOpt 0
+nde@mux_1_to_8_df
