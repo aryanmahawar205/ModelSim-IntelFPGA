@@ -1,4 +1,5 @@
 //Behavioural Modelling for Up Down Counter
+//mode = 0 means Up counting and mode = 1 means Down counting
 
 module up_down(out, reset, clk, mode);
 output [3:0]out; reg [3:0]out;

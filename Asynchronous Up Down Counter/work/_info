@@ -9,45 +9,45 @@ z2
 cModel Technology
 dC:/intelFPGA/18.1
 vTB_up_down_Counter
-Z0 !s110 1714568918
+!s110 1714569723
 !i10b 1
 !s100 ]c8Gjc1<zKlaQY:4mB=>Z0
 Io2N@>]BE]3Z=RiLLX6OI11
-Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dD:/ModelSim-IntelFPGA/Asynchronous Up Down Counter
-w1714568916
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/ModelSim-IntelFPGA/Asynchronous Up Down Counter
+w1714569672
 8D:/ModelSim-IntelFPGA/Asynchronous Up Down Counter/test_bench.v
 FD:/ModelSim-IntelFPGA/Asynchronous Up Down Counter/test_bench.v
 L0 1
-Z3 OV;L;10.5b;63
+Z2 OV;L;10.5b;63
 r1
 !s85 0
 31
-!s108 1714568918.000000
+!s108 1714569723.000000
 !s107 D:/ModelSim-IntelFPGA/Asynchronous Up Down Counter/test_bench.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Asynchronous Up Down Counter/test_bench.v|
 !i113 1
-Z4 o-work work
-Z5 tCvgOpt 0
+Z3 o-work work
+Z4 tCvgOpt 0
 n@t@b_up_down_@counter
 vup_down
-R0
+!s110 1714569722
 !i10b 1
-!s100 C?zk>VSHlV=A_EM?Bag>43
-I]HjHNVoDABS;0;O]m5]bN2
+!s100 zIFBj?M1TRC9^QhjF;6D80
+IEb<L`jjH5a0XbPNnh@[812
+R0
 R1
-R2
-w1714568603
+w1714569166
 8D:/ModelSim-IntelFPGA/Asynchronous Up Down Counter/behavioural_modelling.v
 FD:/ModelSim-IntelFPGA/Asynchronous Up Down Counter/behavioural_modelling.v
-L0 3
-R3
+L0 4
+R2
 r1
 !s85 0
 31
-!s108 1714568917.000000
+!s108 1714569722.000000
 !s107 D:/ModelSim-IntelFPGA/Asynchronous Up Down Counter/behavioural_modelling.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Asynchronous Up Down Counter/behavioural_modelling.v|
 !i113 1
+R3
 R4
-R5
