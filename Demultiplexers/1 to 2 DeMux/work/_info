@@ -30,8 +30,30 @@ Z6 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Demulti
 Z7 o-work work
 Z8 tCvgOpt 0
 nde@mux_1_to_2
+vdeMux_1_to_2_beh
+Z9 !s110 1714558130
+!i10b 1
+!s100 iYR<HgQ_973QWeN=>59hN1
+Ia<kO=DZh=7VMho?:1<ll01
+R0
+R1
+w1714558127
+8D:/ModelSim-IntelFPGA/Demultiplexers/1 to 2 DeMux/behavioural_modelling.v
+FD:/ModelSim-IntelFPGA/Demultiplexers/1 to 2 DeMux/behavioural_modelling.v
+L0 3
+R4
+r1
+!s85 0
+31
+Z10 !s108 1714558130.000000
+!s107 D:/ModelSim-IntelFPGA/Demultiplexers/1 to 2 DeMux/behavioural_modelling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Demultiplexers/1 to 2 DeMux/behavioural_modelling.v|
+!i113 1
+R7
+R8
+nde@mux_1_to_2_beh
 vdeMux_1_to_2_df
-Z9 !s110 1714557300
+R9
 !i10b 1
 !s100 FoIInZS]UZTk^mB7G5k7S1
 IN81Mb@k:gk2Zb7UJOkG@h3
@@ -45,7 +67,7 @@ R4
 r1
 !s85 0
 31
-Z10 !s108 1714557300.000000
+R10
 R5
 R6
 !i113 1
@@ -77,11 +99,11 @@ nde@mux_1_to_2_str
 vTB_1_to_2_DeMux
 R9
 !i10b 1
-!s100 1WhAOznEcYfej1VTf3^XE3
-Il3bZIh?N;nYY4OX[Ni^_U0
+!s100 HbgYlI92l2m20?DYkai7^2
+Id=S4LH:2koPM_7oFRF>[l1
 R0
 R1
-w1714557290
+w1714557813
 8D:/ModelSim-IntelFPGA/Demultiplexers/1 to 2 DeMux/test_bench.v
 FD:/ModelSim-IntelFPGA/Demultiplexers/1 to 2 DeMux/test_bench.v
 L0 3

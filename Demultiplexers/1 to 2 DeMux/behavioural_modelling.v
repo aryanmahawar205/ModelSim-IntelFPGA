@@ -6,8 +6,8 @@ output Y0, Y1; reg Y0, Y1;
 always @ (I or S)
 begin
 case(S)
-1'b0 : begin YO = I; end
-1'b1 : begin Y1 = I; end
+1'b0 : begin Y0 = I; Y1 = 0; end
+1'b1 : begin Y1 = I; Y0 = 0; end
 endcase
 end
 endmodule

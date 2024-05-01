@@ -3,8 +3,8 @@
 module TB_1_to_2_DeMux();
 wire Y0, Y1; reg I; reg S;
 
-//triggering the Test Bench for Structural Modelling
-deMux_1_to_2_str trigger_structuralModelling(I, S, Y0, Y1);
+//triggering the Test Bench for Behavioural Modelling
+deMux_1_to_2_beh trigger_behaviouralModelling(I, S, Y0, Y1);
 
 initial
 begin
