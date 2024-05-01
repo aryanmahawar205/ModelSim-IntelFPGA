@@ -9,7 +9,7 @@ z2
 cModel Technology
 dD:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux
 vdecoder_2_to_4_df
-Z0 !s110 1714564897
+Z0 !s110 1714565266
 !i10b 1
 !s100 >j4K1jRP18fdDf@l]6aTa0
 IkgSk;4:_Qo4Cmj@?acmjP1
@@ -23,12 +23,33 @@ Z3 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1714564897.000000
+!s108 1714565265.000000
 !s107 D:/ModelSim-IntelFPGA/Decoders/2 to 4 Decoder/dataflow_modelling.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Decoders/2 to 4 Decoder/dataflow_modelling.v|
 !i113 1
-Z5 o-work work
-Z6 tCvgOpt 0
+Z4 o-work work
+Z5 tCvgOpt 0
+vdecoder_2_to_4_str
+R0
+!i10b 1
+!s100 G?AGB=Ij0aY42BGJekEWa0
+IFA<H_TX1PC5?gnPYXCeod2
+R1
+R2
+w1714565263
+8D:/ModelSim-IntelFPGA/Decoders/2 to 4 Decoder/structural_modelling.v
+FD:/ModelSim-IntelFPGA/Decoders/2 to 4 Decoder/structural_modelling.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z6 !s108 1714565266.000000
+!s107 D:/ModelSim-IntelFPGA/Decoders/2 to 4 Decoder/structural_modelling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Decoders/2 to 4 Decoder/structural_modelling.v|
+!i113 1
+R4
+R5
 vTB_2_to_4_decoder
 R0
 !i10b 1
@@ -44,10 +65,10 @@ R3
 r1
 !s85 0
 31
-R4
+R6
 !s107 D:/ModelSim-IntelFPGA/Decoders/2 to 4 Decoder/test_bench.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Decoders/2 to 4 Decoder/test_bench.v|
 !i113 1
+R4
 R5
-R6
 n@t@b_2_to_4_decoder
