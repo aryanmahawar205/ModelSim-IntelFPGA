@@ -1,0 +1,13 @@
+//Behavioural Modelling for 1:2 DeMux
+
+module deMux_1_to_2_beh(I, S, Y0, Y1);
+input I; input S;
+output Y0, Y1; reg Y0, Y1;
+always @ (I or S)
+begin
+case(S)
+1'b0 : begin YO = I; end
+1'b1 : begin Y1 = I; end
+endcase
+end
+endmodule
