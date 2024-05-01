@@ -1,0 +1,15 @@
+{D:/ModelSim-IntelFPGA/Asynchronous Up Down Counter/test_bench.v} {1 {vlog -work work -stats=none {D:/ModelSim-IntelFPGA/Asynchronous Up Down Counter/test_bench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module TB_up_down_Counter
+
+Top level modules:
+	TB_up_down_Counter
+
+} {} {}} {D:/ModelSim-IntelFPGA/Asynchronous Up Down Counter/behavioural_modelling.v} {1 {vlog -work work -stats=none {D:/ModelSim-IntelFPGA/Asynchronous Up Down Counter/behavioural_modelling.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module up_down
+
+Top level modules:
+	up_down
+
+} {} {}}
