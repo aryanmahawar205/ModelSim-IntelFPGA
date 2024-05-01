@@ -1,4 +1,11 @@
-{D:/ModelSim-IntelFPGA/Decoders/2 to 4 Decoder/structural_modelling.v} {1 {vlog -work work -stats=none {D:/ModelSim-IntelFPGA/Decoders/2 to 4 Decoder/structural_modelling.v}
+{D:/ModelSim-IntelFPGA/Decoders/2 to 4 Decoder/test_bench.v} {1 {vlog -work work -stats=none {D:/ModelSim-IntelFPGA/Decoders/2 to 4 Decoder/test_bench.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module TB_2_to_4_decoder
+
+Top level modules:
+	TB_2_to_4_decoder
+
+} {} {}} {D:/ModelSim-IntelFPGA/Decoders/2 to 4 Decoder/structural_modelling.v} {1 {vlog -work work -stats=none {D:/ModelSim-IntelFPGA/Decoders/2 to 4 Decoder/structural_modelling.v}
 Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
 -- Compiling module decoder_2_to_4_str
 
