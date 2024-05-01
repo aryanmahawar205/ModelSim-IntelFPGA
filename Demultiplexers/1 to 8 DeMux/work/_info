@@ -9,46 +9,68 @@ z2
 cModel Technology
 dD:/ModelSim-IntelFPGA/Demultiplexers/1 to 4 DeMux
 vdeMux_1_to_8_df
-Z0 !s110 1714561897
+!s110 1714562484
 !i10b 1
 !s100 1O:85;g7TlWlIC2iY64lM3
 IE86OzNCbNhQ4o?nb7CjTE0
-Z1 VDg1SIo80bB@j0V0VzS_@n1
-Z2 dD:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dD:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux
 w1714561596
 8D:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux/dataflow_modelling.v
 FD:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux/dataflow_modelling.v
 L0 3
-Z3 OV;L;10.5b;63
+Z2 OV;L;10.5b;63
 r1
 !s85 0
 31
-Z4 !s108 1714561897.000000
+!s108 1714562484.000000
 !s107 D:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux/dataflow_modelling.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux/dataflow_modelling.v|
 !i113 1
-Z5 o-work work
-Z6 tCvgOpt 0
+Z3 o-work work
+Z4 tCvgOpt 0
 nde@mux_1_to_8_df
-vTB_1_to_8_deMux
+vdeMux_1_to_8_str
+Z5 !s110 1714562485
+!i10b 1
+!s100 E>il2Aj:<bhdlGVJZNH2C3
+ITml0D3IQ0jS]3JIi8hz^i2
 R0
+R1
+w1714562481
+8D:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux/structural_modelling.v
+FD:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux/structural_modelling.v
+L0 3
+R2
+r1
+!s85 0
+31
+Z6 !s108 1714562485.000000
+!s107 D:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux/structural_modelling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux/structural_modelling.v|
+!i113 1
+R3
+R4
+nde@mux_1_to_8_str
+vTB_1_to_8_deMux
+R5
 !i10b 1
 !s100 GKkDnNlBM??DZUmzkff;71
 I_lXYz=DX7bNfDmb<mKb`d0
+R0
 R1
-R2
 w1714561892
 8D:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux/test_bench.v
 FD:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux/test_bench.v
 L0 3
-R3
+R2
 r1
 !s85 0
 31
-R4
+R6
 !s107 D:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux/test_bench.v|
 !s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Demultiplexers/1 to 8 DeMux/test_bench.v|
 !i113 1
-R5
-R6
+R3
+R4
 n@t@b_1_to_8_de@mux
