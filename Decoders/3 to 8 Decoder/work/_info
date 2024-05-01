@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/ModelSim-IntelFPGA/Decoders/2 to 4 Decoder
+vdecoder_3_to_8_df
+!s110 1714566193
+!i10b 1
+!s100 jMOMX0NKk:^A[0RH^_mfi0
+IRc@[0RLz2W3G9Ui]>7[Pk2
+VDg1SIo80bB@j0V0VzS_@n1
+dD:/ModelSim-IntelFPGA/Decoders/3 to 8 Decoder
+w1714566188
+8D:/ModelSim-IntelFPGA/Decoders/3 to 8 Decoder/dataflow_modelling.v
+FD:/ModelSim-IntelFPGA/Decoders/3 to 8 Decoder/dataflow_modelling.v
+L0 3
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1714566193.000000
+!s107 D:/ModelSim-IntelFPGA/Decoders/3 to 8 Decoder/dataflow_modelling.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/ModelSim-IntelFPGA/Decoders/3 to 8 Decoder/dataflow_modelling.v|
+!i113 1
+o-work work
+tCvgOpt 0
